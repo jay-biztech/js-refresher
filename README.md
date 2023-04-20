@@ -1,1 +1,1 @@
-# js-refresher
+# Javascript
