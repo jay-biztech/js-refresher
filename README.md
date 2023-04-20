@@ -1,4 +1,10 @@
 # js-refresher
-Run typescript in watch mode: ```npx tsc -w```
+Run typescript in watch mode: 
+```
+npx tsc -w
+```
 
-Run project: ```npm start```
+Run project: 
+```sh
+npm start
+```
