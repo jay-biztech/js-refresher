@@ -1,0 +1,1 @@
+{"version":3,"file":"destructure.js","sourceRoot":"","sources":["../src/destructure.ts"],"names":[],"mappings":";AAAA,MAAM,aAAa,GAAG,CAAC,UAAU,EAAE,SAAS,EAAE,eAAe,CAAC,CAAC;AAE/D,MAAM,CAAC,MAAM,EAAE,MAAM,EAAE,GAAG,gBAAgB,CAAC,GAAG,aAAa,CAAC;AAE5D,OAAO,CAAC,GAAG,CAAC,MAAM,CAAC,CAAC;AAEpB,OAAO,CAAC,GAAG,CAAC,gBAAgB,CAAC,CAAC"}
