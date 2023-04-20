@@ -1,2 +1,2 @@
 # js-refresher
-- ```npx ts app.ts```
+- ```npx tsc app.ts```
