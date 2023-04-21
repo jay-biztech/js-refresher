@@ -1,0 +1,11 @@
+"use strict";
+const names = ['Jay', 'Kishan'];
+const promise = new Promise((resolve, reject) => {
+    setTimeout(() => {
+        resolve('This is done!');
+    }, 2000);
+});
+promise.then((data) => {
+    data.split(' ');
+});
+//# sourceMappingURL=generics.js.map
